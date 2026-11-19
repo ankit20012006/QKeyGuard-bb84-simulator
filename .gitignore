@@ -1,0 +1,8 @@
+.venv/
+.firefox-profile/
+capture_tmp.py
+inspect_tmp.py
+__pycache__/
+.pytest_cache/
+.streamlit/secrets.toml
+*.py[cod]
