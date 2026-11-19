@@ -1,5 +1,13 @@
 # QKeyGuard · 3–5 minute demo
 
+## Selected Project Topic
+
+**Open Topic: Quantum Cryptography using Qiskit**
+
+QKeyGuard is an interactive BB84 Quantum Key Distribution simulator built using Python, Qiskit, Qiskit Aer, and Streamlit.
+
+The project demonstrates quantum key exchange, basis reconciliation, key sifting, QBER analysis, and Eve's intercept-and-resend attack through interactive simulations and visualizations.
+
 ## 1. The problem
 How can Alice and Bob notice if someone measures the quantum signals they use to establish shared random key material?
 
